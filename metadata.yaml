@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32327
 description: Three Earthlings are whisked on an inter-dimensional journey to the den
   of the Scientist Zehru.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26917#Zehru-of-Xollar
 gutenberg_bookshelf:
 - Science Fiction
 - Astounding Stories
